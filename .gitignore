@@ -1,0 +1,5 @@
+results_*
+review-*
+*.src.rpm
+*.tar.gz
+*.zip
