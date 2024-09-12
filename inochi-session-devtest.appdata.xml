@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>inochi-session-devtest</id>
+  <name>Inochi Session (DevTest)</name>
+  <summary>Tool for using Inochi2D puppets for streaming</summary>
+  <developer id="com.inochi2d">
+    <name>Luna the Foxgirl</name>
+  </developer>
+  <launchable type="desktop-id">inochi-session-devtest.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>BSD-2-Clause</project_license>
+  <description>
+    <p>This is a development test version of the software maintained by Grillo del Mal, use at your own risk.</p>
+    <p>Inochi2D is a framework for realtime 2D puppet animation which can be used for VTubing, 
+      game development and digital animation.</p>
+    <p>Inochi Session is a tool that lets you use your Inochi2D models for live streaming.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Title screen</caption>
+      <image type="source">https://user-images.githubusercontent.com/7032834/181119161-f83e8e57-2f9e-409f-90bd-1b1b9c047bcc.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/grillo-delmal/inochi-session-devtest</url>
+  <url type="bugtracker">https://github.com/grillo-delmal/inochi-session-devtest/issues</url>
+  <categories>
+    <category>Graphics</category>
+  </categories>
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+  </recommends>
+  <content_rating type="oars-1.1"/>
+</component>

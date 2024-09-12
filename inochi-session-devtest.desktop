@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Inochi Session (DevTest)
+Exec=inochi-session-devtest
+Icon=inochi-session-devtest
+Type=Application
+Categories=Utility
