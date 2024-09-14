@@ -9,7 +9,7 @@
 		"diet-ng": "1.8.2",
 		"dportals": "0.1.0",
 		"dunit": "1.0.16",
-		"eventcore": "0.9.33",
+		"eventcore": "0.9.34",
 		"facetrack-d": "0.8.0",
 		"fghj": "1.0.2",
 		"i18n-d": "1.0.2",
@@ -31,7 +31,7 @@
 		"taggedalgebraic": "0.11.23",
 		"tinyfiledialogs": "0.10.1",
 		"vibe-container": "1.3.1",
-		"vibe-core": "2.9.1",
+		"vibe-core": "2.9.2",
 		"vibe-d": "0.9.8",
 		"vmc-d": "1.1.3"
 	}
