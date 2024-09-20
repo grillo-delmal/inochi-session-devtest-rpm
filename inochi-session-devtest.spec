@@ -113,6 +113,7 @@ dub add-local .flatpak-dub/gitver/*/gitver
 export DFLAGS="%{_d_optflags} -L-rpath=%{_libdir}/inochi-session-devtest/"
 
 # Build metadata
+dub build --skip-registry=all --compiler=ldc2 --config=update-version
 dub build --skip-registry=all --compiler=ldc2 --config=meta
 
 # Build the project, with its main file included, without unittests
