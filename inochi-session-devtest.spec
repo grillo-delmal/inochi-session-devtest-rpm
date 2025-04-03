@@ -1,6 +1,6 @@
 %define inochi_session_ver 0.8.7
-%define inochi_session_dist 2
-%define inochi_session_short affd74e
+%define inochi_session_dist 3
+%define inochi_session_short 32738a7
 
 %define inochi_session_suffix ^%{inochi_session_dist}.git%{inochi_session_short}
 
